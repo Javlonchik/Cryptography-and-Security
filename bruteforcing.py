@@ -1,9 +1,9 @@
-#TASK DESCRIPTION:
-
-#Write python code that does a brute force attack against Caesar encryption.
-#Brute force attack means trying all possible keys for a given cipher.
-#In other words, if there are 10 possible keys, then the result of brute force attack will be 10 possible plain texts, 9 of which are invalid texts. You need to do the following:
-
+'''
+TASK DESCRIPTION:
+Write python code that does a brute force attack against Caesar encryption.
+Brute force attack means trying all possible keys for a given cipher.
+In other words, if there are 10 possible keys, then the result of brute force attack will be 10 possible plain texts, 9 of which are invalid texts. You need to do the following:
+'''
 
 #SOLUTION:
 
